@@ -5,3 +5,6 @@
 	co = checkout
 [core]
 	editor = gvim -f
+[github]
+	user = AngelVale
+	token = 0177e240e4447e6c5db2238986e2932c
